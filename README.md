@@ -16,12 +16,32 @@ Você pode visualizar e interagir com o design diretamente no Figma:
 
 - **Figma** (para o design de UI/UX)
 
+## Tela Página Home
+### Tags Header, Nav, Article, Img e Footer
+
+![image](https://github.com/gabrielarebeca/Desafio_UI-UX_Website/assets/110422932/9638736c-e2ee-4558-b581-e7388638dda5)
+![image](https://github.com/gabrielarebeca/Desafio_UI-UX_Website/assets/110422932/76dcb862-8f36-499a-9d1d-745ee924f5cd)
+
+## Tela Página Personagens
+### Tags Header, Nav, Article, Img e Footer
+
+![image](https://github.com/gabrielarebeca/Desafio_UI-UX_Website/assets/110422932/9a712933-4d7e-424a-8782-3a021ddd7e34)
+![image](https://github.com/gabrielarebeca/Desafio_UI-UX_Website/assets/110422932/b83cee63-103e-42a8-927b-2a3fa97a1d55)
+
+## Tela Página Anéis do Poder
+### Tags Header, Nav, Article, Img e Footer
+
+![image](https://github.com/gabrielarebeca/Desafio_UI-UX_Website/assets/110422932/df3fbbb8-3eab-42d1-81ae-d0acda50a82f)
+![image](https://github.com/gabrielarebeca/Desafio_UI-UX_Website/assets/110422932/062f390e-e89d-4deb-b936-ff10b7d93af7)
+
 ## 🙋‍♀️ Autora
 
 Feito com 💻 por **Gabriela Rebeca**
 
 - GitHub: [@gabrielarebeca](https://github.com/gabrielarebeca)
 - LinkedIn: *(adicione aqui o link, se desejar)*
+
+
 
 <h2>Tela Página Home</h2>
 <h4> Tags Header, Nav, Article, Img e Footer</h4>
