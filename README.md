@@ -1,5 +1,27 @@
-<h2>Link Figma</h2>
-https://www.figma.com/file/Il4X9FPWNPpNuJeDbGRKJ6/Site_Kick?type=design&node-id=0-1&mode=design&t=qt4FryVGqqqWmt5q-0
+# 🌐 UI/UX Website - Desafio
+
+Este repositório contém o **[link para o design de um website](https://www.figma.com/file/Il4X9FPWNPpNuJeDbGRKJ6/Site_Kick?type=design&node-id=0-1&mode=design&t=qt4FryVGqqqWmt5q-0)** desenvolvido no **Figma**, com foco em boas práticas de UI (Interface do Usuário) e UX (Experiência do Usuário). O objetivo é criar uma interface limpa, intuitiva e responsiva, garantindo uma excelente experiência para os usuários.
+
+## 📌 Sobre o Projeto
+
+O design foi desenvolvido no **Figma**, com o objetivo de projetar uma **interface de website** que siga as melhores práticas de **UI/UX**, proporcionando uma navegação intuitiva e layout responsivo.
+
+## 🔗 Link para o Design no Figma
+
+Você pode visualizar e interagir com o design diretamente no Figma:
+
+[**Acessar o design no Figma**][(https://www.figma.com/file/SEU-LINK-DO-FIGMA)](https://www.figma.com/file/Il4X9FPWNPpNuJeDbGRKJ6/Site_Kick?type=design&node-id=0-1&mode=design&t=qt4FryVGqqqWmt5q-0)
+
+## 🛠 Tecnologias Utilizadas
+
+- **Figma** (para o design de UI/UX)
+
+## 🙋‍♀️ Autora
+
+Feito com 💻 por **Gabriela Rebeca**
+
+- GitHub: [@gabrielarebeca](https://github.com/gabrielarebeca)
+- LinkedIn: *(adicione aqui o link, se desejar)*
 
 <h2>Tela Página Home</h2>
 <h4> Tags Header, Nav, Article, Img e Footer</h4>
